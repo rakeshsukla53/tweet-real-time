@@ -1,5 +1,5 @@
 # tweet-real-time
-Display stream of tweets in real time on screen
+Display stream of tweets in real time
 
 Step 1:git clone https://github.com/rakeshsukla53/tweet-real-time
 
